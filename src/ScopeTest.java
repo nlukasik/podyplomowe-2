@@ -1,3 +1,4 @@
+/*
 import java.awt.*;
 
 public class ScopeTest {
@@ -32,3 +33,4 @@ public class ScopeTest {
 }
 
 
+*/
